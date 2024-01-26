@@ -13,8 +13,8 @@ public class ProjetoNetBeans {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        System.out.println("Isto é esquesito");
-        for (int i=8;i>=2;i--){
+        System.out.println("Isto é Peixe(fixe)");
+        for (int i=8;i>=1;i--){
             System.out.println(i);
         }
     }
